@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development & UX/UI
 
 - 📫 How to reach me Instagram: @_harsh_Shihora_ 
--                          📩 : harsh.s.shihora604@gmail.com
+                              📩 : harsh.s.shihora604@gmail.com
 
 - Here is my LinkedIn profile: https://www.linkedin.com/in/harsh-shihora-75467b1b1
 
