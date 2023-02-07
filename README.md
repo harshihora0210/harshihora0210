@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harshihora0210
 - 👀 I’m interested in web development & UX/UI
-- 🌱 I’m currently learning ReactJs
 
-- 📫 How to reach me Instagram: @_harsh_Shihora_ 📩 : harsh.s.shihora604@gmail.com
+- 📫 How to reach me Instagram: @_harsh_Shihora_ 
+-                          📩 : harsh.s.shihora604@gmail.com
 
 - Here is my LinkedIn profile: https://www.linkedin.com/in/harsh-shihora-75467b1b1
 
